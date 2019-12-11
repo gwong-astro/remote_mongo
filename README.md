@@ -40,7 +40,7 @@ Ctrl+a d
 
 ### Remote connection (port forward)
 #### On a new localhost terminal
-ssh -N -L 8899:localhost:9001 gwong@hyrmine.icrar.org
+ssh -N -L 8899:localhost:9001 user@hyrmine.icrar.org
 
 
 
